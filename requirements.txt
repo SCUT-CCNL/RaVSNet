@@ -1,0 +1,9 @@
+torch == 2.0.1
+dill == 0.3.6
+pandas==1.5.3
+numpy==1.23.5
+scipy==1.10.0
+torch-geometric==2.3.1
+cdt==0.6.0
+dowhy==0.10.1
+statsmodels==0.14.0
