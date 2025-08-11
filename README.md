@@ -72,6 +72,7 @@ python src/main.py
 We are grateful to everyone who contributed to this project.
 
 If the code and the paper are useful for you, it is appreciable to cite our paper.
+
 @ARTICLE{11084807,
   author={He, Yichen and Dong, Shoubin and Lin, Yuchen and Zheng, Xiaorou and Hu, Jinlong},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
