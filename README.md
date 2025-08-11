@@ -72,3 +72,13 @@ python src/main.py
 We are grateful to everyone who contributed to this project.
 
 If the code and the paper are useful for you, it is appreciable to cite our paper.
+@ARTICLE{11084807,
+  author={He, Yichen and Dong, Shoubin and Lin, Yuchen and Zheng, Xiaorou and Hu, Jinlong},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Pretraining-based Relevance-aware Visit Similarity Network for Drug Recommendation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Medical diagnostic imaging;Drugs;Accuracy;Data mining;Data models;Representation learning;Electronic medical records;MIMICs;Focusing;Safety;Medication recommendations;Patient modeling;Intelligent healthcare management;Electronic health records;Data mining},
+  doi={10.1109/JBHI.2025.3590391}}
